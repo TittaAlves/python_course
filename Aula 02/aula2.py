@@ -1,5 +1,5 @@
 '''
-Aula 2 - sobre a função print
+Aula 02 - sobre a função print
 utilizado para mostar algo na tela
 executam ações
 '''
