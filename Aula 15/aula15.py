@@ -26,4 +26,4 @@ print(nome.lower()) #tudo minusculo
 print(nome.upper()) #tudo maiusculo
 print(nome.title()) #primeiras letras maiusculas
 
-#próxima aula 33
+
