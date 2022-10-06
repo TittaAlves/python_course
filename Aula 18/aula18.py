@@ -19,4 +19,4 @@ else:
     #se colocar o print fora do else, caso quebre o codigo em um momento, ele ainda aprecerá na tela.
     #Caso tenha colocado no else, o else não aparecerá.
 
-    #próx aula 36
+
