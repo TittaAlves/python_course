@@ -1,4 +1,4 @@
-secreto = 'pulseira'
+secreto = 'python'
 digitadas = []
 chances = 3
 while True:
@@ -18,7 +18,7 @@ while True:
         print(f'EBAA, a letra "{letra}" existe na palavra secreta')
 
     else:
-        print(f'AFFF, a letra "{letra}" NÃO existe na palavra secreta')
+        print(f'Que pena, a letra "{letra}" NÃO existe na palavra secreta')
         digitadas.pop()
 
     secreto_temporario = ''

@@ -20,4 +20,3 @@ for valor in variavel:
     else:
         print('Não existe uma palavra com J.')
 
-   #proxima aula 41
